@@ -9324,10 +9324,11 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "Hải Roblox",
+    Title = "Kid Hub",
     Content = "Tải Xong",
     Duration = 10
 
 });
+
 
 
